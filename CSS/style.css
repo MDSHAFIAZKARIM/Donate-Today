@@ -1,0 +1,263 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+/*Header Section Area*/
+.Banner-card {
+    position: relative;
+}
+
+h1 {
+    font-size: 35px;
+    color: #000;
+}
+
+.Banner-card img {
+    width: 100%;
+    height: auto;
+}
+
+.Banner-text {
+    position: absolute;
+    top: 25%;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+.Banner-text h2 {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.Banner-text p {
+    font-size: 20px;
+    font-weight: 500;
+    width: auto;
+
+}
+
+.Banner-text a {
+    padding: 5px 10px;
+}
+
+.btn {
+    border: 5px solid tomato;
+    background-color: tomato;
+    border-radius: 8px;
+    font-weight: 700;
+    text-decoration: none;
+    color: #fff;
+
+}
+
+.select-amount {
+    border: 0px solid;
+    background-color: tomato;
+    color: #fff;
+}
+
+section {
+    text-align: center;
+    margin-bottom: 10%;
+}
+
+.amount-input input {
+    text-align: center;
+    font-size: 16px;
+    font-family: 'Raleway', sans-serif;
+    border: none;
+    border-bottom: 1px none #7858a63a;
+    width: 60%;
+    padding: 8px 0;
+    margin: 30px;
+}
+
+.custom-donate {
+    padding: 10px 30px;
+}
+
+
+
+
+
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+}
+
+.donate-plan {
+    padding: 1% 10%;
+}
+
+.choose-section>p {
+    padding: 0 20% 2% 20%;
+}
+
+#box {
+    text-align: left;
+    padding: 20px 20px;
+    margin: 10px 20px;
+    border-radius: 5px;
+}
+
+#box img {
+    width: 20%;
+}
+
+.box-1 {
+    background-color: #CEE5D0;
+}
+
+.box-2 {
+    background-color: #F9F5EB;
+}
+
+.box-3 {
+    background-color: #EAE3D2;
+}
+
+/*Our Donate Plan */
+.donate h1 {
+    margin-top: 100px;
+    font-size: 40px;
+    text-align: center;
+}
+
+.donate p {
+    margin: 0 300px;
+    text-align: center;
+    align-content: center;
+
+}
+
+.donate-amount {
+    display: flex;
+    justify-content: center;
+}
+
+.donate-amount p {
+    font-size: 30px;
+    padding: 40px;
+    margin: 10px;
+    background-color: ;
+    border-radius: 5px;
+    border-color: 1px solid tomato;
+}
+
+
+h1 {
+    font-size: 35px;
+    color: tomato;
+}
+
+section {
+    text-align: center;
+    margin-bottom: 10%;
+
+}
+
+.btn {
+    text-decoration: none;
+    color: white;
+    background-color: tomato;
+    padding: 10px 30px;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+.info {
+    display: flex;
+    padding: 0 5%;
+}
+
+.half-width {
+    width: 50%;
+    text-align: left;
+    padding-left: 50px;
+}
+
+.half-width h1 {
+    color: tomato;
+}
+
+.half-width p {
+    margin: 30px 0;
+}
+
+.half-width img {
+    width: 90%;
+    margin-left: 20px;
+    border-radius: 5px;
+}
+
+.from-input {
+    background-color: #FCE2DB;
+    margin: 5% 15%;
+    padding: 50px 0px;
+}
+
+.from-input input {
+    border: none;
+    padding: 10px 10px;
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*Footer Area*/
+.footer {
+    background-color: black;
+    margin: 0px;
+
+
+}
+
+.footer h2 {
+    font-size: 40px;
+    text-align: center;
+    color: tomato;
+    font-family: 'Dancing Script', cursive;
+
+}
+
+.footer p {
+    font-size: small;
+    text-align: center;
+    color: gray;
+}
